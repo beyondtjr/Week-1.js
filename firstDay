@@ -1,0 +1,33 @@
+
+
+var my_favorite_number = 22;
+var result = my_favorite_number / 2;
+var someones_favorite = 13;
+var someones_favorite = 7;
+
+console.log(result);
+
+var resultOne = my_favorite_number - someones_favorite;
+console.log(resultOne)
+
+var resultTwo = my_favorite_number * 26;
+console.log(resultTwo)
+
+var str ="supercalifragilisticexpialidocious"
+var a = str.toUpperCase()
+console.log(a)
+console.log(str)
+
+str
+
+var b = str.length
+console.log(b)
+
+var h = 5 + 6;
+console.log(h)
+
+var j = 5 - 6;
+console.log(j)
+
+var z = 5 / 0;
+console.log(z)
